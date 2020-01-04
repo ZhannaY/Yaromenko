@@ -2,7 +2,7 @@ package yaromenkoTask1;
 
 import java.util.Scanner;
 
-public class Main {
+public class YaromenkoTask1 {
 
     public static void main(String[] args) {
         double number = getNumber();

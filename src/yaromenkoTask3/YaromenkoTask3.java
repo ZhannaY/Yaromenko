@@ -2,7 +2,7 @@ package yaromenkoTask3;
 
 import java.util.Scanner;
 
-public class Main {
+public class YaromenkoTask3 {
 
     public static void main(String[] args) {
         int length = getLengthOfArray();
